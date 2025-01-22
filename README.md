@@ -1,9 +1,4 @@
 # Proyecto Challenge Literalura con Alura
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/84ffe722-f1e1-4677-b6db-504c988db199">
-</p>
-
 ## Descripcion del Proyecto
 
 Este projecto se trata de una aplicacion de consola para buscar libros consumiendo una API, y registrarlo
